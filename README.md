@@ -1,4 +1,4 @@
-Win8WPHelper
+Win8WPHelper class
 ============
 
 收集Win8和Windows Phone 8开发中常使用的帮助类
